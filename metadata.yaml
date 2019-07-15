@@ -1,0 +1,24 @@
+_repo: Changeling-and-Other-Stories_59892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byrne, Donn
+    alias: Donn-Byrne, Brian Oswald
+    birthdate: 1889
+    deathdate: 1928
+    gutenberg_agent_id: '805'
+    url: http://www.gutenberg.org/2009/agents/805
+    wikipedia: https://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne
+description: ''
+gutenberg_issued: '2019-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Changeling and Other Stories
+url: http://www.gutenberg.org/ebooks/59892
